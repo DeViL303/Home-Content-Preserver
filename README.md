@@ -11,7 +11,7 @@ This application can be used to download from any server, Just change the "Repla
 ## Usage
 1. Paste your original URLs into the top section.
 2. Choose your download location by entering a path into the download box or use the default C:\downloads\
-3. Choose the domain for the server you want to download from.
+3. Enter the domain or IP for the server you want to download files from.
 4. Select options:
    - As is: Just replaces the domain and downloads the specific files you chose
    - Txxx to Txxx: Checks the all version from first value to last value- T031 to T080 recommended in most cases.
