@@ -3,10 +3,7 @@
 ![image](https://github.com/user-attachments/assets/2be39726-979e-4d4b-b980-4b14026ce7a5)
 
 
-An app created to download files from Playstation Home servers. This application simply spoofs the useragent to "PSHome PS3Application libhttp/4.9.0-000 (CellOS)". 
-
-This application can be used to download from any server, Just change the "Replace Domain" box to suit your chosen server. 
-
+## A simple app created to download files from Playstation Home servers. This application simply spoofs the useragent to "PSHome PS3Application libhttp/4.9.0-000 (CellOS)". 
 
 ## Usage
 1. Paste your original URLs into the top section.
@@ -14,8 +11,8 @@ This application can be used to download from any server, Just change the "Repla
 3. Enter the domain or IP for the server you want to download files from.
 4. Select options:
    - As is: Just replaces the domain and downloads the specific files you chose
-   - Txxx to Txxx: Checks the all version from first value to last value- T031 to T080 recommended in most cases.
-   - 2 second delay between downloads: by default it will download as fast as possible - use this setting to limit it to one download every 2 seconds.
+   - Txxx to Txxx: Checks the all version from first value to last value- T031 to T100 recommended in most cases where the version is not known.
+   - 2 second delay between downloads: by default it will download as fast as possible - Use this setting to limit it to one download every 2 seconds.
    - For sdat urls chec for odc/sdc/png: This setting will auto check for each sdats file, if its an object it checks for odc, if its a scene it checks for sdc
    - Note this feature might not always get the associated files, sometimes sony didnt use the same expcected naming system for thumbnails.
 5. Click build list, it will generate links for all items based on the entered urls + chosen options.
