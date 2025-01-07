@@ -26,8 +26,13 @@
 - If enabled it can auto check for associated ODC/SDC/PNGs to match the downloaded sdats.
 
 This application was created becuase I could not find another download manager that ticks all the boxes:
-- Can spoof user agent
-- Can bulk download
-- Keeps exact folder structure and naming of original file. Most will download into one folder
+- Free (and No ads or restrictions)
+- Can bulk download reliably (and no limit on file count or GBs)
+- Simple to use - In other words has a UI rather than some script reading links from a file.   
+- Keeps exact folder structure and naming of original files by grabbing it from URL.
+- Most download managers will download all files into one folder or are missing one of these
+- Can do all the other things AND also spoof useragent
 
-Also it can get pretty tedious doing manual find and replace on Playstation Home's 100+ different domains used by Sony and various 2rd party developers. 
+Also it can get pretty tedious doing manual find and replace on Playstation Home's 100+ different domains used by Sony and various 3rd party developers. 
+
+As a bonus, this is open source. :)
